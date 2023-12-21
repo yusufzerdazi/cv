@@ -1,0 +1,78 @@
+{
+    "summary": "Accomplished Senior Software Engineer with over 6 years of experience in a variety of technical domains specialising in Azure and .NET Core, with strong foundations in SQL, Python and NodeJS. Proven ability as a team leader, mentor, and key contributor, driving high-impact projects to success within agile and ever-evolving business environments. Passionate about personal growth, quality work, and engaging in diverse interests such as music production, digital art, electronics, AI, and web development.",
+    "experience": [
+        {
+            "start": "Dec 2021",
+            "end": "Dec 2021",
+            "company": "ASOS.com",
+            "title": "Senior Software Engineer",
+            "description": "\u00e2\u20ac\u00a2 Successfully expanded the Partner Fulfils project to over 40 brands across 5 countries, now handling 3% of ASOS' total orders and bringing significant revenue for the company. \u00e2\u20ac\u00a2 Delivered new business-critical features enabling partners to own the creation of new products, stock our items on partner websites and allow them to commision the use of ASOS warehouses and shipping facilities. This enables the company to take full advantage of the partners' product range, improve stock position by clearing stale stock, and to leverage new revenue sources from existing infrastructure. \u00e2\u20ac\u00a2 Played a central role in team expansion through candidate interviewing, assessing, mentoring, and onboarding of 3 new engineers as well as 3 internal moves to the team. \u00e2\u20ac\u00a2 Took a proactive role in high-level business and architectural decisions, delivering on priorities by managing, delegating, and communicating effectively across multidisciplinary teams."
+        },
+        {
+            "start": "Nov 2019",
+            "end": "Nov 2019",
+            "company": "ASOS.com",
+            "title": "Software Engineer",
+            "description": "\u00e2\u20ac\u00a2 Delivered the Partner Fulfils project within 6 months for 2 brands: Adidas and Reebok, enabling the brands to ship directly to the customer, reducing risk and expanding stock coverage. \u00e2\u20ac\u00a2 Collaborated in a cross-team effort to deliver Ratings and Reviews - projected to reduce returns and increase conversion rate with a corresponding effect on profitability. \u00e2\u20ac\u00a2 Delivered a new solution to obtain customer metrics (e.g. product views, add to bag), reducing the lead for obtaining this from days to minutes. This data fed into product sorting which gave customers a much more up-to-date view of the catalogue. \u00e2\u20ac\u00a2 Implemented cost-saving and feature enrichment with other projects such as Buy the Look, Visual Search, AKS Migration, and Store Consolidation. \u00e2\u20ac\u00a2 Delivered training sessions on Docker, AKS and containerisation to other ASOS employees."
+        },
+        {
+            "start": "Mar 2019",
+            "end": "Mar 2019",
+            "company": "ASOS.com",
+            "title": "Associate Software Engineer",
+            "description": "\u00e2\u20ac\u00a2 I contributed to a number of projects, delivering high quality, well tested code by applying TDD and SOLID principles, and helping to deliver key projects to their deadline. \u00e2\u20ac\u00a2 Became a member of the support team, debugging and fixing issues outsite of office hours when incidents occurred. \u00e2\u20ac\u00a2 Quickly picked up domain knowledge to make an impact early on, aiding the team as an engineer and problem-solver, and facilitating collaboration and communication through clearly articulated ideas and constructive engagement with others."
+        },
+        {
+            "start": "Oct 2017",
+            "end": "Oct 2017",
+            "company": "Nottinghamshire County Council",
+            "title": "Software Engineer",
+            "description": "\u00e2\u20ac\u00a2 Delivered a full-stack solution which facilitated vulnerable patients to be transferred from hospital into home care quicker, abstracting the legacy software from the users through a functional and usable UI. \u00e2\u20ac\u00a2 Improved the usability of the pothole reporting website. \u00e2\u20ac\u00a2 Took a leading role in architectural decisions and defining work, applying this to the successful delivery of Agile projects."
+        },
+        {
+            "start": "Jul 2016",
+            "end": "Jul 2016",
+            "company": "Apple",
+            "title": "Software Engineer Internship",
+            "description": "\u00e2\u20ac\u00a2 Developed a full-stack solution that would improve the efficiency of working with Apple\u00e2\u20ac\u2122s ticket system for Agile development. \u00e2\u20ac\u00a2 Gained vital insights into how tech giants structure their Agile development."
+        },
+        {
+            "start": "Jun 2015",
+            "end": "Jun 2015",
+            "company": "CEM : Centre for Evaluation & Monitoring",
+            "title": "Software Engineer Internship",
+            "description": "\u00e2\u20ac\u00a2 Developed a full-stack tool that streamlines teams' interactions with organisational data. \u00e2\u20ac\u00a2 Gained hands-on experience with C#, SQL, JavaScript and frontend libraries."
+        }
+    ],
+    "education": [
+        {
+            "start": "2013",
+            "end": "2017",
+            "title": "Durham University",
+            "description": "First-class honours degree in Natural Sciences (studying Computer Science and Maths), averaging 80%"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Natural Sciences Finalist for Outstanding Academic Achievement in Computer Science",
+            "description": "Issued by Durham University (Computer Science Department)",
+            "date": "June 2017"
+        },
+        {
+            "title": "Natural Sciences MSci Award for Outstanding Achievement",
+            "description": "Issued by Durham University (Natural Sciences Department)",
+            "date": "June 2017"
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Microsoft Certified: Azure Developer Associate",
+            "issuer": "Microsoft",
+            "date": "May 2021",
+            "link": "https://www.credly.com/badges/6fd417ee-8655-41e3-b116-7076c9304f5f?source=linked_in_profile"
+        }
+    ],
+    "skills": [
+
+    ]
+}
