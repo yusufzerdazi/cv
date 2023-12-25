@@ -6,7 +6,7 @@
             "start": "2013",
             "end": "2017",
             "title": "Durham University",
-            "description": "1st Class Honours in Natural Sciences (studying Computer Science and Maths) attaining 80% Overall"
+            "description": "1st Class Honours Masters degree in Natural Sciences (studying Computer Science and Maths) attaining 80% Overall"
         },
         {
             "start": "2011",
@@ -40,6 +40,7 @@
 			"title": "Software Engineer",
 			"description": [
 				"Delivered the Partner Fulfils project within 6 months for 2 brands: Adidas and Reebok, enabling the brands to ship directly to the customer, expanding the range and availability of products, and maximising demand conversion, customer choice and stock availability. In the first year this grew to make up <b>11% of Adidas orders</b> and <b>10% of Reebok sales</b> in the UK.",
+				"Influenced the design of <b>Logic Apps</b> by feeding back our experiences and recommendations in weekly catchups with the product team at <b>Microsoft</b>.",
 				"<b>Collaborated</b> in a cross-team effort to deliver Ratings and Reviews - projected to reduce returns and increase conversion rate with a corresponding effect on profitability.",
 				"Delivered a new solution for ingesting customer metrics, reducing the lead time for leveraging these from days to minutes, which allowed more value to be extracted from this data.",
 				"Implemented cost-saving and feature enrichment with other projects such as Buy the Look, Visual Search, <b>AKS</b> Migration, and Store Consolidation.",
@@ -120,7 +121,6 @@
 		{
 			"skills": [
 				"Architecture",
-				"Algorithms",
 				"Test-Driven Development",
 				"Agile Methodologies",
 				"SOLID Design Principles",
@@ -135,8 +135,7 @@
 				"Team Coordination",
 				"Presentation",
 				"Coaching",
-				"Mentoring",
-				"Communication"
+				"Mentoring"
 			],
 			"category": "Interpersonal Skills"
 		}
@@ -153,13 +152,13 @@
         {
             "title": "Hitbox",
             "date": "Jun 2020",
-            "description": "Hitbox is a symmetric, multiplayer, browser-based brawler game.",
+            "description": "Hitbox is a symmetric, multiplayer, browser-based brawler game. Every player has the same abilities and move set, meaning it's purely skill-based.",
             "link": "https://www.hitbox.online"
         },
         {
             "title": "Text Trek",
             "date": "Sep 2023",
-            "description": "Text Trek is a community-based, AI driven text based adventure game.",
+            "description": "Text Trek is a community-based, AI-driven text based adventure game. Imagine huge persistent worlds spanning centuries, characters finding artifacts from past generations, and thrilling open-ended plotlines with atmospheric artwork.",
             "link": "https://texttrek.z16.web.core.windows.net"
         }
     ],
