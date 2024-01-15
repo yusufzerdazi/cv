@@ -6,13 +6,19 @@
             "start": "2013",
             "end": "2017",
             "title": "Durham University",
-            "description": "1st Class Honours Masters degree in Natural Sciences (studying Computer Science and Maths) attaining 80% Overall"
+            "description": [
+				"1st Class Honours Masters degree in Natural Sciences (studying Computer Science and Maths) attaining 80% Overall",
+				"My final year project was to construct a robot which used Simultaneous Localisation and Mapping (SLAM) techniques, to map out rooms in real time. The robot was based on a Raspberry Pi, using LEGO Mindstorms components for sensor data and wheel movement, and streamed data to and from a remote laptop for control inputs. The project was successful, having major benefits when compared to using raw sensor data to map out rooms, and there is scope for further work to be done by implementing more robust sensors. I attained 80% in this project, which made up half of the final year of my degree.",
+				"As part of my degree, I took modules in Software Engineering, Machine Learning, Network Analysis, Algorithms, Quantum Computing, Computer Graphics, Physics, Calculus, Probability, Discrete Mathematics, Linear Algebra, Topology, Geometry and Decision Theory."
+			]
         },
         {
             "start": "2011",
             "end": "2013",
             "title": "Toot Hill College",
-            "description": "2 A*s, 2 As in Maths, Further Maths, Physics and Chemistry"
+            "description": [
+				"2 A*s, 2 As in Maths, Further Maths, Physics and Chemistry"
+			]
         }
     ],
 	"experience": [

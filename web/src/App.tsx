@@ -64,9 +64,9 @@ function App() {
                   <h5>
                     <i className="fas fa-chevron-circle-right" /> <b>{e.start} - {(e.end && e.end != "") ? e.end : "Present"}:</b> {e.title}
                   </h5>
-                  <p className="para">
-                    {e.description}
-                  </p>
+                  <ul className="para fa-ul">
+                    {e.description.map(d => <li dangerouslySetInnerHTML={{"__html":'<span class="fa-li"><i class="far fa-dot-circle"></i></span>' + d}}></li>)}
+                  </ul>
                 </>)
             }
           </section>
